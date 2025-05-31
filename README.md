@@ -1,7 +1,7 @@
 # rojiini
 <h1>Hi there, I'm Rojin Bozorgi 👋</h1>
 
-<img src="https://ibb.co/tgfmV0z" alt="Reihaneh Bozorgi" width="200" />
+<img src="https://i.ibb.co/WZ9xmr0/IMG-9682.jpg" alt="Reihaneh Bozorgi" width="200" />
 
 
 <h2>📍 About Me</h2>
