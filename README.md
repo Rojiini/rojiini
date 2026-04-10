@@ -56,8 +56,6 @@
 
 ---
 
----
-
 ## 🦈 GitHub Achievements
 
 <p align="center">
@@ -65,6 +63,7 @@
     <img src="https://img.shields.io/badge/GitHub-Achievement%20%F0%9F%A6%88%20Pull%20Shark-blue?style=for-the-badge&logo=github"/>
   </a>
 </p>
+
 ---
 
 ## 🤝 Connect With Me
