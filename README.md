@@ -2,10 +2,7 @@
 <h1 align="center">Hi there, I'm Rojin Bozorgi 👋</h1>
 
 <p align="center">
-  <img src="https://imglink.cc/cdn/D7SrOqsNcz.jpeg"
-       width="180" height="180"
-       style="border-radius:50%;" 
-       alt="Rojin Bozorgi"/>
+  <img src="https://imglink.cc/cdn/D7SrOqsNcz.jpeg" width="180px" alt="Rojin Bozorgi"/>
 </p>
 
 <p align="center">
@@ -19,7 +16,7 @@
 🎓 Computer Science Student  
 🏙️ From Tehran, Iran → Studying in the U.S.  
 💻 First computer: Windows XP PC  
-📊 Future Data Scientist passionate about solving real-world problems
+📊 Future Data Scientist passionate about solving real-world problems  
 
 📧 **Email:** rojiini.bozorgi@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/rojin-bozorgi/
@@ -62,8 +59,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rojiini&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojiini&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rojiini&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rojiini&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
