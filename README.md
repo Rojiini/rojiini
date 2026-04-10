@@ -1,4 +1,4 @@
-# rojiini
+# Rojiini
 <h1 align="center">Hi there, I'm Rojin Bozorgi 👋</h1>
 
 <p align="center">
