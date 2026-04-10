@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Rojin Bozorgi 👋</h1>
 
 <p align="center">
-  <img src="<img src="https://imglink.cc/cdn/D7SrOqsNcz.jpeg" alt="image" />" width="180" style="border-radius:50%" alt="Rojin Bozorgi"/>
+  <img src="<img src="https://imglink.cc/cdn/D7SrOqsNcz.jpeg" />" width="180" style="border-radius:50%" alt="Rojin Bozorgi"/>
 </p>
 
 <p align="center">
