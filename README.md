@@ -56,13 +56,15 @@
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 🦈 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rojiini&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rojiini&layout=compact&theme=tokyonight" height="160"/>
+  <a href="https://github.com/users/Rojiini/achievements/pull-shark">
+    <img src="https://img.shields.io/badge/GitHub-Achievement%20%F0%9F%A6%88%20Pull%20Shark-blue?style=for-the-badge&logo=github"/>
+  </a>
 </p>
-
 ---
 
 ## 🤝 Connect With Me
