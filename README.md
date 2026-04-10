@@ -2,7 +2,9 @@
 <h1 align="center">Hi there, I'm Rojin Bozorgi 👋</h1>
 
 <p align="center">
-  <img src="<img src="https://imglink.cc/cdn/D7SrOqsNcz.jpeg" />" width="180" style="border-radius:50%" alt="Rojin Bozorgi"/>
+  <img src="https://imglink.cc/cdn/D7SrOqsNcz.jpeg" width="180"
+       style="border-radius:50%; border:4px solid white; box-shadow:0 0 10px rgba(0,0,0,0.2);" 
+       alt="Rojin Bozorgi"/>
 </p>
 
 <p align="center">
@@ -39,16 +41,16 @@
 
 ## 🧠 My Story
 
-✨ I immigrated to the U.S. to pursue my dream of becoming a **Data Scientist**.  
-💡 I love **learning new technologies**, building **communities**, and solving **real-world problems** with tech.  
-🚀 Currently growing every day and excited for what’s ahead!
+✨ I immigrated to the U.S. to pursue my dream of becoming a **Data Scientist**  
+💡 I love learning new technologies and building communities  
+🚀 Excited to solve real-world problems using tech
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,R,css,git,github,vscode"/>
 </p>
 
 ---
